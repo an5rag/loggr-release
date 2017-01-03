@@ -3,13 +3,13 @@
 ### Introduction
 Loggr is a convenient way to log, track and visualize workplace records. It offers a clean interface encapsulating all the grunt work of organization and data storage behind the scene. It takes minimal time to set up Loggr.
 
->With Loggr, you can do the following essential things:
+With Loggr, you can do the following essential things:
   - Make customized 'Lines' or spreadsheets with complete control over column names and types
   - Add Entries with real-time filtering
   - Manage multiple lines at the same time
   - Add/Edit Employees who have access to the lines in the company
 
->You can also:
+You can also:
   - Update Lines and columns if the need arises
   - Mark each entry as in-progress by default unless updated clocked-out
   - Export entire spreadsheets as .csv
