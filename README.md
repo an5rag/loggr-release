@@ -3,13 +3,13 @@
 ### Introduction
 Loggr is a convenient way to log, track and visualize workplace records. It offers a clean interface encapsulating all the grunt work of organization and data storage behind the scene. It takes minimal time to set up Loggr.
 
-With Loggr, you can do the following essential things:
+>With Loggr, you can do the following essential things:
   - Make customized 'Lines' or spreadsheets with complete control over column names and types
   - Add Entries with real-time filtering
   - Manage multiple lines at the same time
   - Add/Edit Employees who have access to the lines in the company
 
-You can also:
+>You can also:
   - Update Lines and columns if the need arises
   - Mark each entry as in-progress by default unless updated clocked-out
   - Export entire spreadsheets as .csv
@@ -34,10 +34,12 @@ Installing Loggr is a three step process.
  
 To get started, first download and extract the [latest pre-built release](https://github.com/an5rag/loggr-release/archive/master.zip). 
 
+
 ### Database
 While it is highly encouraged to host the database using a cloud storage solution (like [MLab](https://mlab.com), [compose](https://www.compose.com/mongodb)), download and install [MongoDB] using the relevant guide [here](https://docs.mongodb.com/manual/installation/).
 
 Make sure the database is up and running before proceeding to the next step.
+
 
 ### Server
 
@@ -75,6 +77,7 @@ If everything goes well, you should something like this in your browser:
 ```js
 {"success":true,"message":"Default Admin Added!","user":{"__v":0,"username":"admin2","firstName":"Administrator","lastName":"","password":"admin","_id":"586c27f196c60014a82558a8","companyId":"000","userType":"ADMIN"}}
 ```
+
 
 ### Client
 
