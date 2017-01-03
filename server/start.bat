@@ -1,0 +1,1 @@
+server.exe mongodb://an5rag:anuragmlab@ds119718.mlab.com:19718/loggr-sample 4000
